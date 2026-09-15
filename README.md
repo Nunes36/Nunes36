@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Matheus Ferreira Nunes, estudante de Análise e Desenvolvimento de Sistemas, com previsão de conclusão para dezembro de 2028. Estou em busca de uma oportunidade como Desenvolvedor Fullstack Júnior, onde eu possa aplicar meus conhecimentos em projetos reais e continuar evoluindo como profissional da área de tecnologia.
-Durante minha formação, participei de diversos projetos acadêmicos utilizando tecnologias como React, Node.js, Flask e Python. Criei desde aplicações web como um cardápio responsivo com React até um gerenciador de tarefas com backend em Flask e integração com SQL. Também desenvolvi jogos 2D com lógica de movimentação e pontuação em JavaScript e C#, o que reforçou minha capacidade de resolver problemas de forma criativa e eficiente.
+Desenvolvedor(a) de Software focado em criar soluções web e jogos interativos. Durante minha formação acadêmica, construí uma base técnica sólida desenvolvendo projetos de ponta a ponta com React, Node.js, Flask, Python, JavaScript e C#.
+Experiência prática no desenvolvimento de aplicações web completas, que vão desde interfaces responsivas e dinâmicas até a construção de APIs robustas com integração a bancos de dados SQL. Além da engenharia web, dediquei-me à criação de jogos 2D, onde aprimorei minha lógica de programação e arquitetura de código. Sou movido(a) pelo desafio de transformar problemas complexos em software funcional, unindo criatividade e eficiência técnica para entregar a melhor experiência ao usuário.
 
 ### 🤖 Linguagens e Tecnologias
 
